@@ -1,5 +1,6 @@
-# HPTK - Sample
+# HPTK - Sample - LeapMotion Integration
 This is a ready-to-go project using [HPTK](https://github.com/jorgejgnz/HPTK). Used only for educational purposes.
+It has been extended from the original  [HPTK-Sample](https://github.com/jorgejgnz/HPTK-Sample) to integrate LeapMotion tracking.
 
 ## Demo video
 [![Demo video](https://github.com/jorgejgnz/HPTK/blob/372787a8d8eaf2f8df1a7cd0f42c0082bf51884c/Media/hptk.gif?raw=true)](https://twitter.com/jorgejgnz/status/1285514990619942912)
@@ -15,12 +16,15 @@ Then clone using this command *git clone https://github.com/jorgejgnz/HPTK-Sampl
 # Current setup
 - [HPTK](https://github.com/jorgejgnz/HPTK) V0.2.2
 - [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) v20.1
-- Unity 2019.4.4f1 LTS
+- [LeapMotion](https://developer.leapmotion.com/unity) V4.6.0
+- Unity 2019.4.5f1 LTS
 
 # Author
 **Jorge Juan González** - *HCI Researcher at I3A (University of Castilla-La Mancha)*
 
 [LinkedIn](https://www.linkedin.com/in/jorgejgnz/) - [Twitter](https://twitter.com/jorgejgnz) - [GitHub](https://github.com/jorgejgnz)
+
+**Brandon J. Matthews** - *HCI Researcher at IVE (University of South Australia)*
 
 ## Acknowledgements
 
